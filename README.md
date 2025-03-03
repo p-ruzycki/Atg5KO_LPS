@@ -10,19 +10,6 @@ Click on the links below to view the interactive plots:
 - [Plot 4](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot4.html)
 
 
-
-<h2>Single-Cell RNA-seq Analysis Plots</h2>
-
-<p>Interactive plots are displayed below:</p>
-
-<iframe src="https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html" width="800" height="600"></iframe>
-
-<iframe src="https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot2.html" width="800" height="600"></iframe>
-
-<iframe src="https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot3.html" width="800" height="600"></iframe>
-
-<iframe src="https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot4.html" width="800" height="600"></iframe>
-
 ### **Overview**  
 This repository contains a computational pipeline for **Single-Cell RNA Sequencing (scRNA-seq) analysis**, leveraging **Seurat** and other bioinformatics tools for **quality control, clustering, differential expression analysis, and pathway enrichment**.  
 
