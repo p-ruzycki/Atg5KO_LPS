@@ -17,7 +17,9 @@ Click on the links below to view the interactive plots:
 
 Below are the interactive plots:
 
-![Interactive Plot Preview](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot_preview.png)
+## UMAP Plot for Single-Cell RNA-seq
+
+![UMAP Plot](https://github.com/sohinireddy45/SingleCell_RNA_Seq/blob/main/Umpa_plot_1.png?raw=true)
 
 👉 [Click here for the full interactive version](https://sohinireddy45.github.io/SingleCell_RNA_Seq/)
 
