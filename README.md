@@ -21,9 +21,7 @@ Below are the interactive plots:
 
 ![UMAP Plot](https://github.com/sohinireddy45/SingleCell_RNA_Seq/blob/main/Umpa_plot_1.png?raw=true)
 
-## ***[Interactive version]-***
-
-[Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
+## ***[Interactive version]-***    [Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
 
 ### **Overview**  
 This repository contains a computational pipeline for **Single-Cell RNA Sequencing (scRNA-seq) analysis**, leveraging **Seurat** and other bioinformatics tools for **quality control, clustering, differential expression analysis, and pathway enrichment**.  
