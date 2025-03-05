@@ -192,7 +192,7 @@ head(deg_results_WT_vs_KO)
 ---
 
 ### **Code: DEA - Müller Glia Subclusters (Cluster 2 vs. Cluster 1)**  
-To assess **intra-group heterogeneity**, we compare expression between **Cluster 2 (disease) and Cluster 1 (control).**  
+To assess **intra-group heterogeneity**, we compare expression between **Cluster 2 and Cluster 1.**  
 
 ```r
 # Perform DEA between Müller Glia subclusters (Cluster 2 vs Cluster 1)
