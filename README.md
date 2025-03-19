@@ -1,24 +1,6 @@
 # SingleCell_RNA_Seq
 
-## Single-Cell RNA-seq Analysis Plots
-
-Click on the links below to view the interactive plots:
-
-- [Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
-- [Plot 2](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot2.html)
-- [Plot 3](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot3.html)
-- [Plot 4](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot4.html)
-
-## 📊 Single-Cell RNA-seq Analysis
-
-🔗 **View Interactive Plots:** [Click here](https://sohinireddy45.github.io/SingleCell_RNA_Seq/)
-
-## Single-Cell RNA-seq Analysis Plots
-
-Below are the interactive plots:
-
-## UMAP Plot for Single-Cell RNA-seq
-## ***[Interactive version]-***    [Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
+[Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
 ![UMAP Plot](https://github.com/sohinireddy45/SingleCell_RNA_Seq/blob/main/Umpa_plot_1.png?raw=true)
 
 
@@ -384,3 +366,7 @@ ggsave("figures/GSEA_dotplot.pdf", width = 10, height = 8, dpi = 300)
 - **Color gradient**: FDR significance (red = high, blue = low).  
 
 ---
+## 📊 Single-Cell RNA-seq Analysis
+
+🔗 **View Interactive Plots:** [Click here](https://sohinireddy45.github.io/SingleCell_RNA_Seq/)
+
