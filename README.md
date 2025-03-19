@@ -1,12 +1,10 @@
 # SingleCell_RNA_Seq
 
-[Plot 1](https://sohinireddy45.github.io/SingleCell_RNA_Seq/plot1.html)
-![UMAP Plot](https://github.com/sohinireddy45/SingleCell_RNA_Seq/blob/main/Umpa_plot_1.png?raw=true)
-
-
 
 ### **Overview**  
 This repository contains a computational pipeline for **Single-Cell RNA Sequencing (scRNA-seq) analysis**, leveraging **Seurat** and other bioinformatics tools for **quality control, clustering, differential expression analysis, and pathway enrichment**.  
+
+![UMAP Plot](https://github.com/sohinireddy45/SingleCell_RNA_Seq/blob/main/Umpa_plot_1.png?raw=true)
 
 ### **Pipeline Summary**  
 The workflow consists of the following key steps:  
@@ -139,6 +137,7 @@ seurat_obj <- RunUMAP(seurat_obj, dims = 1:11)
 DimPlot(seurat_obj, reduction = "umap", label = TRUE, pt.size = 0.5)
 ```
 > **Interpretation**: The **UMAP plot** shows clusters of transcriptionally distinct cell populations.
+
 
 ---
 
