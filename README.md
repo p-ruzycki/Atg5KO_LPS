@@ -367,5 +367,10 @@ ggsave("figures/GSEA_dotplot.pdf", width = 10, height = 8, dpi = 300)
 ---
 ## 📊 Single-Cell RNA-seq Analysis
 
-🔗 **View Interactive Plots:** [Click here](https://sohinireddy45.github.io/SingleCell_RNA_Seq/)
+
+**Single Cell Portal:** Accession: SCP3003 [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP3003)
+
+Repository developed and maintained by [Sohini Rebba](https://github.com/sohinireddy45).  
+
+
 
