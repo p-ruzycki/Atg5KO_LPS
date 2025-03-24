@@ -1,5 +1,11 @@
 # SingleCell_RNA_Seq
 
+## 📊 Single-Cell RNA-seq Analysis
+
+
+**Single Cell Portal:** [Accession: SCP3003](https://singlecell.broadinstitute.org/single_cell/study/SCP3003)
+
+Repository developed and maintained by [Sohini Rebba](https://github.com/sohinireddy45).  
 
 ### **Overview**  
 This repository contains a computational pipeline for **Single-Cell RNA Sequencing (scRNA-seq) analysis**, leveraging **Seurat** and other bioinformatics tools for **quality control, clustering, differential expression analysis, and pathway enrichment**.  
@@ -365,12 +371,4 @@ ggsave("figures/GSEA_dotplot.pdf", width = 10, height = 8, dpi = 300)
 - **Color gradient**: FDR significance (red = high, blue = low).  
 
 ---
-## 📊 Single-Cell RNA-seq Analysis
-
-
-**Single Cell Portal:** Accession: SCP3003 [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP3003)
-
-Repository developed and maintained by [Sohini Rebba](https://github.com/sohinireddy45).  
-
-
 
