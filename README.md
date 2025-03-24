@@ -1,4 +1,4 @@
-# SingleCell_RNA_Seq
+# Atg5KO_LPS - Single Cell RNA seq data analysis
 
 ## Autophagy regulates Müller glial cell inflammatory activation 
 
