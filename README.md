@@ -371,4 +371,8 @@ ggsave("figures/GSEA_dotplot.pdf", width = 10, height = 8, dpi = 300)
 - **Color gradient**: FDR significance (red = high, blue = low).  
 
 ---
+##  Contact
 
+For questions, feel free to contact [naga@wustl.edu].
+
+> GitHub Repository: [sohinireddy45/Atg5KO_LPS - Single Cell RNA seq data analysis](https://github.com/sohinireddy45/SingleCell_RNA_Seq)
